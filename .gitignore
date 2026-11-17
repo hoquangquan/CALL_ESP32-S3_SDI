@@ -1,0 +1,12 @@
+# Build outputs
+build/
+.pio/
+*.bin
+*.elf
+*.map
+*.o
+*.a
+
+# Local configuration and backups
+/config.json
+*.bak
